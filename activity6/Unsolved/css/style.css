@@ -35,6 +35,9 @@ h2{
 }
 #bio-image{
     float: left;
+    margin-left: 2cm;
+    height: 200px;
+    width: 200px;
 }
 a{
     color: #d21034;
